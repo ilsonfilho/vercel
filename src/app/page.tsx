@@ -1,7 +1,12 @@
 export default function Home() {
   return (
-    <>
-      <h1>SISTEMA 3</h1>
-    </>
+    <div style={{
+      display: 'grid',
+      placeItems: 'center',
+      height: '100vh',
+      background: '#eee'
+    }}>
+      <h1 style={{ color: '#00f', fontSize: '3rem', fontWeight: 'normal' }}>SISTEMA</h1>
+    </div>
   )
 }
