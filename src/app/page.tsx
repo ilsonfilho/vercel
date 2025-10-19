@@ -6,7 +6,7 @@ export default function Home() {
       height: '100vh',
       background: '#eee'
     }}>
-      <h1 style={{ color: '#00f', fontSize: '3rem', fontWeight: 'normal' }}>SISTEMA</h1>
+      <h1 style={{ color: 'lime', fontSize: '3rem', fontWeight: 'normal' }}>SISTEMA</h1>
     </div>
   )
 }
